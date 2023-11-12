@@ -12,6 +12,7 @@
 .idea
 **/firebase.js
 **/.firebaserc
+.firebase.json
 
 ### Firebase Patch ###
 .runtimeconfig.json
