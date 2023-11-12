@@ -1,0 +1,35 @@
+
+.header{
+    width: 60%;
+    height: 30%;
+    
+    margin-left: 20%;
+    display: flex;
+    justify-content: space-between;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    
+}
+.header>div{
+    padding: 1.2vmax;
+
+}
+.title{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    
+}
+
+.logOut{
+    
+    border: none;
+    padding: 10px ;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    border-radius: 20px;
+    
+}
+
+.logOut:hover{
+    color: rgb(192, 28, 28);
+}

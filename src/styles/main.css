@@ -1,0 +1,45 @@
+.chatContainer{
+ 
+    border-radius: 20px;
+    width: 60%;
+    height: 90vh;
+    border: 1px solid;
+    margin-left: 20%;
+    max-height: 750px;
+    height: 100%;
+    
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    height: calc(100vh - 100px);
+
+    
+}
+
+.chatContainer::-webkit-scrollbar{
+    display: none;
+}
+
+
+.inputContainer{
+    width: 60%;
+    margin-left: 20%;
+
+}
+
+input{
+    width: 96%;
+    border: 0.2px solid grey;
+    margin-right: 7px;
+
+
+    
+}
+
+.btn{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border:0.2px solid grey;
+    width: 3%;
+}
+

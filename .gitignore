@@ -8,6 +8,15 @@
 # testing
 /coverage
 
+### Firebase ###
+.idea
+**/firebase.js
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
+
 # production
 /build
 
