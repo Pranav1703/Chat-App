@@ -23,7 +23,6 @@ const Main = ({ID,imgLink}) => {
   const sumbitHandeler = async (e)=>{
     e.preventDefault();
 
-
     try { 
       await addDoc(collection(db,"MessagesCollection"),{
         text:msg,
@@ -53,16 +52,16 @@ const Main = ({ID,imgLink}) => {
     return ()=>{
       returnMessages();
     }
-
+    
   }, []);
-  
+ 
   return (
     <>
     <div className='chatContainer'>
         
         {
           messages.map((item)=>(
-            <Messages key={item.id} user={item.user===ID?"self":"other"} text ={item.text} img = {item.uri}/>
+            <Messages key={item.id} user={item.user===ID?"self":"other"} text ={item.text} img = {item.uri} time={item.createdAt}/>          
           ))
           
         }

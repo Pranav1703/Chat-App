@@ -21,3 +21,11 @@ img{
     background-color: #e6d5b1;
 }
 
+h6{
+    height: 25px;
+    position: relative;
+    top: 25px;
+    font-weight: 100;
+    opacity: 0.5;
+    margin: 0 3px;
+}
