@@ -1,5 +1,6 @@
 .chatContainer{
- 
+    
+    background-color: rgb(41, 43, 45);
     border-radius: 20px;
     width: 60%;
     height: 90vh;
@@ -12,7 +13,7 @@
     flex-direction: column;
     overflow-y: scroll;
     height: calc(100vh - 100px);
-
+    
     
 }
 
@@ -22,24 +23,25 @@
 
 
 .inputContainer{
-    width: 60%;
+    width: 61%;
     margin-left: 20%;
-
+    color: #F2EFE9;
 }
 
 input{
     width: 96%;
     border: 0.2px solid grey;
-    margin-right: 7px;
-
-
+    margin-right: 2px;
+    background-color: rgb(41, 43, 45);
+    color: #F2EFE9;
+    border-radius: 5px;
     
 }
 
 .btn{
-    border-top-right-radius: 20px;
-    border-bottom-right-radius: 20px;
-    border:0.2px solid grey;
+    margin: 0;
+    border: none;
     width: 3%;
+    
 }
 

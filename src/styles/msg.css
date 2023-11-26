@@ -18,7 +18,7 @@ img{
     margin-top: 9px;
     border: 0.5px solid grey; 
     border-radius: 20px;
-    background-color: #e6d5b1;
+    background-color: #F2EFE9;
 }
 
 h6{
@@ -28,4 +28,5 @@ h6{
     font-weight: 100;
     opacity: 0.5;
     margin: 0 3px;
+    color: #ffffff;
 }
