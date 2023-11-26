@@ -2,7 +2,8 @@
 
 This a very basic chat app.
 
-<img width="1280" alt="image" src="https://github.com/Pranav1703/Chat-App/assets/116703760/a61ff603-4fbf-40f3-8d55-2692c75a6f48">
+<img width="1280" alt="image" src="https://github.com/Pranav1703/Chat-App/assets/116703760/1e4f219b-3bb8-4964-9547-ceed55494cf5">
+
 
 
 To use this App, Click this link --> chatapp-video-c5a96.web.app
