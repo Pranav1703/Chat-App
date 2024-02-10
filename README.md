@@ -1,10 +1,10 @@
 # Chat-App
 
-This a very basic chat app.
+This a very basic chat app built using react and firebase.
 
 <img width="1280" alt="image" src="https://github.com/Pranav1703/Chat-App/assets/116703760/1e4f219b-3bb8-4964-9547-ceed55494cf5">
 
-
+## Link
 
 To use this App, Click this link --> chatapp-video-c5a96.web.app
 
